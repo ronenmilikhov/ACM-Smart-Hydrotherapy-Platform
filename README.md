@@ -4,8 +4,11 @@
 
 **Client:** "Mayim Shavim" (Non-Profit Organization)
 
-<img width="324" height="701" alt="ACM - Mock Up 1" src="https://github.com/user-attachments/assets/8c72c452-5e6f-4627-9d30-9a42da59af9a" /> <img width="332" height="717" alt="ACM - Mock Up 2" src="https://github.com/user-attachments/assets/3dc28b6d-e26c-4a1e-aef4-aa8c9d5d5958" /> <img width="366" height="789" alt="ACM - Mock Up 3" src="https://github.com/user-attachments/assets/60dca9a8-5079-4347-99b1-282aae29b383" />
-
+<p align="center">
+  <img width="30%" src="https://github.com/user-attachments/assets/8c72c452-5e6f-4627-9d30-9a42da59af9a" />
+  <img width="30%" src="https://github.com/user-attachments/assets/3dc28b6d-e26c-4a1e-aef4-aa8c9d5d5958" />
+  <img width="30%" src="https://github.com/user-attachments/assets/60dca9a8-5079-4347-99b1-282aae29b383" />
+</p>
 
 ## 📖 About The Project
 This project is a Capstone Project developed for **"Mayim Shavim"**, an organization empowering children with special needs through hydrotherapy.
